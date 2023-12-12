@@ -1,0 +1,12 @@
+This code is used to transimt data using controller commands.
+But first of all, I need to explicit all the commands I need. The idea is to reproduce commands im familiar with. I played GTA5 a lot so I will copy what they implemented : 
+  RT -> Lift
+  LT -> Descend
+  RB -> Yaw right
+  LB -> Yaw left
+  left joystick front and back -> pitch
+  left joystick left and right -> roll
+  
+  A -> sleep mode, wake up from sleep mode
+  Y -> Atti mode
+

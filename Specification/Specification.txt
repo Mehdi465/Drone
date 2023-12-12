@@ -1,0 +1,11 @@
+L'objectif est de construire un drone, aussi simple soit il.
+
+Pour cela, nous devons dans un premier temps spécifier ce que nous voulons.
+
+1) Notre drone doit pouvoir voler et être controllé.
+2) il doit être controllé par une manette xbox series X, via un ordinateur.
+3) au moins 1 min de temps de vol.
+4) Utilise bluetooth or wifi
+
+
+Plus tard, nous essayerons d'implanter cela avec un téléphone.
